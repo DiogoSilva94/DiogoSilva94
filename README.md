@@ -5,7 +5,7 @@
 
 - 🔭 Trabalho atualmente na RMS TELECOM
 
-- 💬 Estudando atualmente **PHP, HTML, CSS, SQL ,JavaScript**
+- 💬 Estudando atualmente **PHP, HTML, CSS, SQL ,JavaScript,.NET CORE**
 
 
 
